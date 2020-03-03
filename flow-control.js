@@ -1,5 +1,7 @@
 function sayHi(name) {
-  console.log('Hi ' + name);
+  if (true) {
+    console.log('Hi ' + name);
+  }
 }
 
 function basicTeenager(age) {
